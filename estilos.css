@@ -1,0 +1,15 @@
+p{
+    color: aqua;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+h2{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background-color: brown;
+}
+.negrita{color: blueviolet;}
